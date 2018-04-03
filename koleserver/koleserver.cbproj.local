@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011.03.18 19:59:54.421.cbproj,C:\Documents and Settings\Melih\Belgelerim\RAD Studio\Projects\Project1.cbproj=C:\Documents and Settings\Melih\Belgelerim\RAD Studio\Projects\koleserver.cbproj</Transaction>
+    <Transaction>2011.03.18 20:10:57.171.cpp,C:\Documents and Settings\Melih\Belgelerim\RAD Studio\Projects\Unit1.cpp=C:\Documents and Settings\Melih\Belgelerim\RAD Studio\Projects\_frmServer.cpp</Transaction>
+    <Transaction>2011.03.18 20:10:57.171.h,C:\Documents and Settings\Melih\Belgelerim\RAD Studio\Projects\Unit1.h=C:\Documents and Settings\Melih\Belgelerim\RAD Studio\Projects\_frmServer.h</Transaction>
+    <Transaction>2011.03.18 20:10:57.171.dfm,C:\Documents and Settings\Melih\Belgelerim\RAD Studio\Projects\Unit1.dfm=C:\Documents and Settings\Melih\Belgelerim\RAD Studio\Projects\_frmServer.dfm</Transaction>
+    <Transaction>2011.03.18 20:11:35.718.cpp,C:\Documents and Settings\Melih\Belgelerim\RAD Studio\Projects\_frmServer.cpp=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\koleserver\_frmServer.cpp</Transaction>
+    <Transaction>2011.03.18 20:11:35.718.h,C:\Documents and Settings\Melih\Belgelerim\RAD Studio\Projects\_frmServer.h=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\koleserver\_frmServer.h</Transaction>
+    <Transaction>2011.03.18 20:11:35.718.dfm,C:\Documents and Settings\Melih\Belgelerim\RAD Studio\Projects\_frmServer.dfm=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\koleserver\_frmServer.dfm</Transaction>
+    <Transaction>2011.03.18 20:11:36.093.cbproj,C:\Documents and Settings\Melih\Belgelerim\RAD Studio\Projects\koleserver.cbproj=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\koleserver\koleserver.cbproj</Transaction>
+    <Transaction>2011.03.18 20:13:23.921.cpp,C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\koleserver\Unit1.cpp=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\koleserver\CSocket.cpp</Transaction>
+    <Transaction>2011.03.18 20:13:23.921.h,C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\koleserver\Unit1.h=C:\Documents and Settings\Melih\Desktop\Melihh\projelerim\C++\koleserver\CSocket.h</Transaction>
+  </Transactions>
+</BorlandProject>
